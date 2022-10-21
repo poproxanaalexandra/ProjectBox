@@ -1,0 +1,33 @@
+  label {
+    padding: 10px;
+  }
+
+  input {
+    padding: 3px;
+    margin: 6px;
+  }
+  
+  .tabel {
+    font-family: Cabin,Helvetica Neue,Helvetica,Arial,sans-serif;
+    width: 60%;   
+    text-align: center;
+    margin: auto;
+    border-collapse: collapse;
+    background-color:  rgba(128, 128, 0, 0.612);
+
+  }
+
+  .hidden {
+    margin: 50px auto;
+    width: 700px;
+    display: none;
+
+  }
+
+  
+  .sterge:hover {
+    background-color: rgb(138, 0, 0);
+  }
+  .editeaza:hover {
+    background-color: rgba(128, 128, 0, 0.51);
+  }
